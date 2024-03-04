@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  simple_utils:
+    path: ../simple_utils
 
 dev_dependencies:
   flutter_test:
